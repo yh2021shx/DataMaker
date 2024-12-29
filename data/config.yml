@@ -1,0 +1,24 @@
+marble1.in:
+  timeLimit: 1000
+  memoryLimit: 524288
+  score: 10
+  subtaskId: 0
+
+marble2.in:
+  timeLimit: 1000
+  memoryLimit: 524288
+  score: 10
+  subtaskId: 0
+
+marble3.in:
+  timeLimit: 1000
+  memoryLimit: 524288
+  score: 10
+  subtaskId: 0
+
+marble4.in:
+  timeLimit: 1000
+  memoryLimit: 524288
+  score: 10
+  subtaskId: 0
+
